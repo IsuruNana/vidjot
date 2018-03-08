@@ -1,0 +1,23 @@
+{
+  "name": "vidjot",
+  "version": "1.0.0",
+  "description": "Jot thy ideas matey",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsuruNana/vidjot.git"
+  },
+  "author": "Isuru Nanayakkara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IsuruNana/vidjot/issues"
+  },
+  "homepage": "https://github.com/IsuruNana/vidjot#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.17.1"
+  }
+}
